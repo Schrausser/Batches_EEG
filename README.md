@@ -1,2 +1,2 @@
 # Batches_EEG
-MS-DOS Batchfiles for EEG analysis.
+MS-DOS batchfiles for EEG analysis.

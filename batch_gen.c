@@ -53,8 +53,8 @@ void _err_msg()
 	printf("Usage: gen [output] n \n ");
 	printf(" [output]... Output File (eg. out.bat)\n");
 	printf("   n......... number of cases\n");
-    printf("-----------------------------------------------------------\n");
+        printf("-----------------------------------------------------------\n");
 	printf("GEN by d.schrausser\n");
-    printf("compiled on %s @ %s\n", __DATE__, __TIME__);
+        printf("compiled on %s @ %s\n", __DATE__, __TIME__);
 	exit(EXIT_FAILURE);
 }

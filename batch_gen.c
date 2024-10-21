@@ -8,7 +8,7 @@
 void _err_msg ();
 
   
-main(int argc, char *argv[]) 				/*main �bernimmt n argumente im vektor argv*/
+main(int argc, char *argv[]) 				/*main übernimmt n argumente im vektor argv*/
 {   
    FILE  *outStream;						/*streams*/ 
    int iLauf;
